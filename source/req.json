@@ -4,5 +4,5 @@
     "accountIsDeactivated": "Account is deactivated",
     "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
     "loginTimeout": "Login timed out",
-    "tfaSecurityCodeWrong": "Two-factor authentication code is wrong"
+    "tfaSecurityCodeWrong": "Two-factor authentication code  wrong"
 }
